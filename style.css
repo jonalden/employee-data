@@ -1,0 +1,15 @@
+.container {
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 0px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+h2 {
+    background: grey;
+    width: 100%;
+    margin-left: 0px;
+}
